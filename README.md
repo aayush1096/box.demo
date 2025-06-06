@@ -1,1 +1,1 @@
-# box.demo
+print('hello')
